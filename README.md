@@ -20,11 +20,5 @@ Python 3.6+ installed on your system.
 No external libraries or packages required.
 
 Installation & Running
-Clone or download the repository:
-git clone https://github.com/your-username/bank-account-system.git
-
-Open the folder:
-cd bank-account-system
-
 Run the application:
 python main.py
